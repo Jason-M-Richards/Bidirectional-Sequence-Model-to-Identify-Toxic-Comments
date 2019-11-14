@@ -1,5 +1,5 @@
 
-# Bidirectional Sequence Models - Lab
+# Bidirectional Sequence Models to Identify Toxic Comments
 
 ## Introduction
 
