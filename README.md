@@ -1,18 +1,6 @@
 
 # Bidirectional Sequence Models to Identify Toxic Comments
 
-## Introduction
-
-In this lab, we'll learn to make use of **_Bidirectional Models_** to better classify sequences of text!
-
-## Objectives
-
-You will be able to:
-
-* Understand and explain the basic architecture of a Bidirectional RNN. 
-* Identify the types of problems Bidirectional approaches are best suited for. 
-* Build and train Bidirectional RNN Models. 
-
 ## Getting Started
 
 We're going to use a **_Bidrectional LSTM Model_** to build a model that can identify toxic comments on social media. This dataset comes from the [Toxic Comment Classification Challenge on Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) in partnership with Google and Jigsaw.
